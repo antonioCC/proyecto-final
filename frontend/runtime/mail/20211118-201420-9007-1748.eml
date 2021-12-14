@@ -1,0 +1,55 @@
+Message-ID: <e1929bc37f6c3ba0ef8456618736815c@localhost>
+Date: Thu, 18 Nov 2021 20:14:20 +0000
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: panhead077@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1637266460_9f05b5e481531435334541ece770da74_=_"
+
+
+--_=_swift_v4_1637266460_9f05b5e481531435334541ece770da74_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello nanci.uicab,
+
+Follow the link below to verify your email:
+
+ht=
+tp://localhost/pruebacopia/frontend/web/index.php?r=3Dsite%2Fverify-email&t=
+oken=3D3WbqsRdThhQwrAZ22-VZ19fYHecdhsqj_1637266460
+
+--_=_swift_v4_1637266460_9f05b5e481531435334541ece770da74_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello nanci.uicab,</p>
+
+    <=
+p>Follow the link below to verify your email:</p>
+
+    <p><a href=3D"ht=
+tp://localhost/pruebacopia/frontend/web/index.php?r=3Dsite%2Fverify-email&a=
+mp;token=3D3WbqsRdThhQwrAZ22-VZ19fYHecdhsqj_1637266460">http://localhost/pr=
+uebacopia/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3D3WbqsR=
+dThhQwrAZ22-VZ19fYHecdhsqj_1637266460</a></p>
+</div>
+    </body>
+</ht=
+ml>
+
+
+--_=_swift_v4_1637266460_9f05b5e481531435334541ece770da74_=_--

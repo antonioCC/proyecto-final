@@ -1,0 +1,55 @@
+Message-ID: <956c312db297fb871d8c1cdf590e7b3a@localhost>
+Date: Wed, 24 Nov 2021 23:35:59 +0000
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: gener.pootcan@itsva.edu.mx
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1637796959_63934e0b999309a94f416b7e3ce14be9_=_"
+
+
+--_=_swift_v4_1637796959_63934e0b999309a94f416b7e3ce14be9_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello GenerUs,
+
+Follow the link below to verify your email:
+
+http:/=
+/localhost/ffmanagement/frontend/web/index.php?r=3Dsite%2Fverify-email&toke=
+n=3DYX6M0BQOAUUbjBvNpchw_cQ4KQ_8IRbb_1637796958
+
+--_=_swift_v4_1637796959_63934e0b999309a94f416b7e3ce14be9_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello GenerUs,</p>
+
+    <p>Fo=
+llow the link below to verify your email:</p>
+
+    <p><a href=3D"http:/=
+/localhost/ffmanagement/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;=
+token=3DYX6M0BQOAUUbjBvNpchw_cQ4KQ_8IRbb_1637796958">http://localhost/ffman=
+agement/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3DYX6M0BQO=
+AUUbjBvNpchw_cQ4KQ_8IRbb_1637796958</a></p>
+</div>
+    </body>
+</html=
+>
+
+
+--_=_swift_v4_1637796959_63934e0b999309a94f416b7e3ce14be9_=_--

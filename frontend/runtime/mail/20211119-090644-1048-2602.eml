@@ -1,0 +1,55 @@
+Message-ID: <5c1c0b1865212a59f74414e4c77f8f77@localhost>
+Date: Fri, 19 Nov 2021 09:06:44 +0000
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: joel@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1637312804_f0f3a215f1de9a54aa5d67353d00a294_=_"
+
+
+--_=_swift_v4_1637312804_f0f3a215f1de9a54aa5d67353d00a294_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello joel.uicab,
+
+Follow the link below to verify your email:
+
+htt=
+p://localhost/pruebacopia/frontend/web/index.php?r=3Dsite%2Fverify-email&to=
+ken=3D0NbMkHvaeB6EJjEUKX5quXbnlm8erD0L_1637312803
+
+--_=_swift_v4_1637312804_f0f3a215f1de9a54aa5d67353d00a294_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello joel.uicab,</p>
+
+    <p=
+>Follow the link below to verify your email:</p>
+
+    <p><a href=3D"htt=
+p://localhost/pruebacopia/frontend/web/index.php?r=3Dsite%2Fverify-email&am=
+p;token=3D0NbMkHvaeB6EJjEUKX5quXbnlm8erD0L_1637312803">http://localhost/pru=
+ebacopia/frontend/web/index.php?r=3Dsite%2Fverify-email&amp;token=3D0NbMkHv=
+aeB6EJjEUKX5quXbnlm8erD0L_1637312803</a></p>
+</div>
+    </body>
+</htm=
+l>
+
+
+--_=_swift_v4_1637312804_f0f3a215f1de9a54aa5d67353d00a294_=_--
